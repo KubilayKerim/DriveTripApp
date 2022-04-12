@@ -1,0 +1,6 @@
+module Pods_DriveTripApp {
+  umbrella header "Pods-DriveTripApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
